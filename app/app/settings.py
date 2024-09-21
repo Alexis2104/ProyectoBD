@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'db_djfull',
         'HOST': 'localhost',
         'USER': 'postgres',
-        'PASSWORD': 'oracle', 
+        'PASSWORD': 'Alexis2104', 
         'PORT': 5432
     }
 }
