@@ -81,7 +81,7 @@ DATABASES = {
         'HOST': 'localhost',
         'USER': 'postgres',
         'PASSWORD': 'oracle',
-        'PORT': 5432
+        'PORT': 5432, 
     }
 }
 
@@ -116,7 +116,6 @@ USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
 
 
 # Static files (CSS, JavaScript, Images)
